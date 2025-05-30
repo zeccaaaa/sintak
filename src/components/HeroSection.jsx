@@ -18,7 +18,7 @@ export default function HeroSection() {
             </button>
           </div>
         </div>
-        <div className="w-full md:w-1/2 px-6 mt-12 md:mt-0">
+        <div className="w-full md:w-1/2 px-5 mt-12 md:mt-0">
           <img 
             src="/LOVE MORE COFEE.jpg"
             alt="Biji Kopi Premium Indonesia" 
